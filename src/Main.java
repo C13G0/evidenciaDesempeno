@@ -9,6 +9,8 @@ public class Main {
             System.out.println("El número que ingresaste es positivo.");
         } else {
             System.out.println("El número que ingresaste es negativo.");
+
+            
         }
     }
 }
