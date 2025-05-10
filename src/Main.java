@@ -6,9 +6,9 @@ public class Main {
         System.out.print("Ingresa un número: ");
         int numeroIngresado = sc.nextInt();
         if (numeroIngresado >= 0) {
-            System.out.println("El número es positivo.");
+            System.out.println("El número que ingresaste es positivo.");
         } else {
-            System.out.println("El número es negativo.");
+            System.out.println("El número que ingresaste es negativo.");
         }
     }
 }
